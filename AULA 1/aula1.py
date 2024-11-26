@@ -1,0 +1,5 @@
+print("Olá, mundo")
+print ('tudo bem?')
+print ('me chamo Camila')
+print ('e gosto de morango')
+print ('e uva verde')
